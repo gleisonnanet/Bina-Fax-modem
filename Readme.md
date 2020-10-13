@@ -23,14 +23,11 @@ O fax-modem possui normalmente dois conectores do tipo RJ-11
  # Comandos AT
     O modem é comandado por um conjunto de comandos padrão embutidos pelo fabricante chamados de comandos AT.
     Todos os modem possuem esse conjunto de comandos, alguns podem ter alguns comandos diferenciados com finalidades 
-    específicas para cada equipamento, além dos que são exigidos pelo padrão de fabricação.
-
-  
-## Comuns a todos os modens.
-
+    específicas para cada equipamento, além dos que são exigidos pelo padrão de fabricação.  
     É importante procurar e verificar o conjunto de comandos AT do seu modem,
      para ver exatamente o que é possível ser feito com ele. 
 
+# Conectar-se ao MODEM
 Para conectar-se ao MODEM será preciso saber em que porta serial ele foi instalado.
  
   ![alt text](./Imagem/windows_driver_modem.jpg "Portas Fax modem" )    
